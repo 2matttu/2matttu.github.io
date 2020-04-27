@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Matt's homepage
-
 I am a Yale undergraduate student studying CS. I want to know how small things form a bigger thing.
 
 I enjoy posting different types of [memes]({% link memes.markdown %}) in Facebook Groups.
