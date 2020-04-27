@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a Yale undergrad student studying CS. I want to know how small things form a bigger thing.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I enjoy posting different types of memes in Facebook Groups.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am also the Head STUDent Arranger for Yale's Marching Band. My arrangements range from Eastern and Western Pop Music, in addition to music from anime.
+
+# Classes Taken
+
+- Intro to Computing (a.k.a. CS50)
+
+- Intro to CS
+
+- Data Structures and Programming Techniques
+
+- Algorithms
+
+- Systems Programming and Computer Organization
 
 
 [jekyll-organization]: https://github.com/jekyll
