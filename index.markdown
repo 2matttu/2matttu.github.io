@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 # 涂旭辰
 
 I am a Yale undergraduate student studying CS. I want to know how small things form a bigger thing.
