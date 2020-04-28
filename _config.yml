@@ -27,8 +27,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: 2matttu
 linkedin_username:  2matttu
 collections:
-  - memes
-  - arrangements
+  memes:
+  arrangements:
+  projects:
+    output: true
+    permalink: /projects/:slug
 
 # Build settings
 theme: minima

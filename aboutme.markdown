@@ -4,11 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-I am a Yale undergrad student studying CS. I want to know how small things form a bigger thing.
+I am a Yale undergrad student studying CS. I want to know how small things form a more bigger, complex thing.
 
-I enjoy posting different types of [memes]({% link memes.markdown %}) in Facebook Groups.
+I've been playing piano since elementary school and have recently picked up guitar. I am the Head STUDent Arranger for Yale's Marching Band! My [arrangements]({% link arrangements.markdown %}) range from Eastern and Western Pop Music, in addition to music from anime.
 
-I am also the Head STUDent Arranger for Yale's Marching Band. My [arrangements]({% link arrangements.markdown %}) range from Eastern and Western Pop Music, in addition to music from anime.
+I'm also an avid [memer]({% link memes.markdown %}).
+
+I live in Westchester County, New York.
 
 My Chinese name is《涂旭辰》which is a combination of my family name《涂》and a surname meaning《旭》rising sun +《辰》year of the dragon. I want to continue learning Chinese - my mother tongue, in addition to some Korean and Japanese before I graduate.
 
@@ -29,6 +31,8 @@ My Chinese name is《涂旭辰》which is a combination of my family name《涂�
 ### Other Cool Classes
 
 - Advanced Modern Chinese for Heritage Speakers (2 semesters)
+
+- The Performance of Early Music
 
 - Thinking (PSYC 179)
 
