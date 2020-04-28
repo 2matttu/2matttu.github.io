@@ -4,4 +4,4 @@ title: Projects
 permalink: /projects/
 ---
 
-*in progress*
+*this page is in progress!*

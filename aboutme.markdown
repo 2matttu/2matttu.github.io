@@ -4,19 +4,21 @@ title: About Me
 permalink: /about/
 ---
 
-I am a Yale undergrad student studying CS. I want to know how small things form a more bigger, complex thing.
+I'm a Yale '22 undergrad studying Computer Science. I want to learn how systems of all types are designed and implemented, from computers to the brain.
 
-I've been playing piano since elementary school and have recently picked up guitar. I am the Head STUDent Arranger for Yale's Marching Band! My [arrangements]({% link arrangements.markdown %}) range from Eastern and Western Pop Music, in addition to music from anime.
+I've been playing piano since elementary school and have recently started guitar. I arrange music for the Yale Precision Marching band as their Head Student Arranger. My [arrangements]({% link arrangements.markdown %}) range from Eastern and Western Pop Music, in addition to music from video games and anime.
+
+<p>I've published some <a href="http://www.yalescientific.org/?s=%22matt+tu%22" target="_blank">articles</a> for the <a href="http://www.yalescientific.org/" target="_blank">Yale Scientific Magazine</a>, but now I mainly work on maintaining and redesigning their website.</p>
 
 I'm also an avid [memer]({% link memes.markdown %}).
 
 I live in Westchester County, New York.
 
-My Chinese name is《涂旭辰》which is a combination of my family name《涂》and a surname meaning《旭》rising sun +《辰》year of the dragon. I want to continue learning Chinese - my mother tongue, in addition to some Korean and Japanese before I graduate.
+My Chinese name is《涂旭辰》which is a combination of my family name《涂》and a surname meaning《旭》rising sun +《辰》year of the dragon. I want to continue learning Chinese - my mother tongue, in addition to some Korean and Japanese before I graduate Yale.
 
-## Coursework
+## Academics
 
-### CS Classes Taken 
+### CS Coursework
 
 - Systems Programming and Computer Organization (CPSC 323)
 
@@ -28,11 +30,11 @@ My Chinese name is《涂旭辰》which is a combination of my family name《涂�
 
 - Intro CS sequence (CS50 and CPSC201)
 
-### Other Cool Classes
+### Other Coursework
 
-- Advanced Modern Chinese for Heritage Speakers (2 semesters)
+- Advanced Modern Chinese for Heritage Speakers (CHNS 152,153)
 
-- The Performance of Early Music
+- The Performance of Early Music (MUSI 240)
 
 - Thinking (PSYC 179)
 

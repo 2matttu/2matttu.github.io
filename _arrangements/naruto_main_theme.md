@@ -1,5 +1,5 @@
 ---
-title: "Naruto Main Theme"
+title: "\"Naruto\" Main Theme"
 date: 2020-02-02
 alt-title: "Hidden Elm Village"
 composer: "Toshiro Masuda"

@@ -4,7 +4,7 @@ title: Arrangements
 permalink: /arrangements/
 ---
  
-*most recent at top*
+I've written {{ site.arrangements.size }} arrangements for the Yale Precision Marching Band so far. More to come!
 
 {% assign sorted_arrangements = (site.arrangements | sort: 'date') | reverse %}
 
@@ -12,7 +12,7 @@ permalink: /arrangements/
     {% for x in sorted_arrangements %}
     <tr>
         <td>
-            {{x.title}} by {{x.composer}}
+            <strong>{{x.title}}</strong> by {{x.composer}}
         </td>
         <td>
             <a href="{{ x.src }}" target="_blank">PDF</a>

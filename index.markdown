@@ -2,12 +2,8 @@
 layout: home
 ---
 
-I am a Yale undergrad student studying CS. I want to know how small things form a more bigger, complex thing.
+![my face](/assets/profile-pic.jpg "In front of Sterling Library")
 
-I am also the Head STUDent Arranger for Yale's Marching Band. My [arrangements]({% link arrangements.markdown %}) range from Eastern and Western Pop Music, in addition to music from anime.
-
-I also enjoy posting different kinds of [memes]({% link memes.markdown %}) in various online groups.
-
-I live in Westchester County, New York.
+Welcome! I am a Yale undergrad student studying CS. My site contains elements from my academic, personal, and *soon* professional life.
 
 More about me [here]({% link aboutme.markdown %})

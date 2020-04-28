@@ -8,8 +8,7 @@ permalink: /memes
 {% for meme in sorted_memes %}
 ---
 ---
-
-# {{ meme.date | date: '%B %d, %Y' }} - Posted to {{ meme.group }}
+# *{{ meme.date | date: '%B %d, %Y' }}* - Posted to **{{ meme.group }}**
 {% if meme.link %}
 <a href="{{ meme.link }}">Source</a>
 {% endif %}
