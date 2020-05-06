@@ -4,6 +4,7 @@ title: Memes
 permalink: /memes
 ---
 
+made with &#128153;
 {% assign sorted_memes = (site.memes | sort: 'date') | reverse %}
 {% for meme in sorted_memes %}
 ---
