@@ -14,11 +14,15 @@ I'm also an avid [memer]({% link memes.markdown %}).
 
 I live in Westchester County, New York.
 
-My Chinese name is《涂旭辰》which is a combination of my family name《涂》and a surname meaning《旭》rising sun +《辰》year of the dragon. I want to continue learning Chinese - my mother tongue, in addition to some Korean and Japanese before I graduate Yale.
+My Chinese name is《涂旭辰》which is a combination of my family name《涂》and a surname meaning《旭》rising sun +《辰》year of the dragon. I completed the (virtual) <a href="https://light.yale.edu/" target="_blank">Light Fellowship</a> in Chinese during the Summer of 2020. I want to continue learning Chinese - my mother tongue, in addition to some Korean and Japanese before I graduate Yale.
 
 ## Academics
 
 ### CS Coursework
+
+- Operating Systems (CPSC 422) (in progress)
+
+- Computation Intelligence for Games (CPSC 474) (in progress)
 
 - Systems Programming and Computer Organization (CPSC 323)
 
@@ -31,6 +35,10 @@ My Chinese name is《涂旭辰》which is a combination of my family name《涂�
 - Intro CS sequence (CS50 and CPSC201)
 
 ### Other Coursework
+
+- Chinese for Scholarly Conversation (CHNS 172) (in progress)
+
+- Probability and Statistics (S&DS 238) (in progress)
 
 - Advanced Modern Chinese for Heritage Speakers (CHNS 152,153)
 

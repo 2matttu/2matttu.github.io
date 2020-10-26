@@ -20,7 +20,7 @@
 
 title: Matt Tu
 author: ""
-email: matt.tu(at)yale.edu
+email: matt.tu@yale.edu
 description: >- # this means to ignore newlines until "baseurl:"
   100 push ups, 100 sit ups, 100 squats, minus the 10 km run
 baseurl: "/" # the subpath of your site, e.g. /blog
