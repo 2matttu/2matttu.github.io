@@ -20,9 +20,9 @@ My Chinese name is《涂旭辰》which is a combination of my family name《涂�
 
 ### CS Coursework
 
-- Operating Systems (CPSC 422) (in progress)
+- Operating Systems (CPSC 422)
 
-- Computation Intelligence for Games (CPSC 474) (in progress)
+- Computation Intelligence for Games (CPSC 474)
 
 - Systems Programming and Computer Organization (CPSC 323)
 
