@@ -8,7 +8,7 @@ I'm a Yale '22 undergrad studying Computer Science. I want to learn how systems 
 
 I've been playing piano since elementary school and have recently started guitar. I arrange music for the Yale Precision Marching band as their Head Student Arranger. My [arrangements]({% link arrangements.markdown %}) range from Eastern and Western Pop Music, in addition to music from video games and anime.
 
-<p>I've published some <a href="http://www.yalescientific.org/?s=%22matt+tu%22" target="_blank">articles</a> for the <a href="http://www.yalescientific.org/" target="_blank">Yale Scientific Magazine</a>, but now I mainly work on maintaining and redesigning their website.</p>
+<p>I've published some <a href="https://www.yalescientific.org/?s=%22matt+tu%22" target="_blank">articles</a> for the <a href="https://www.yalescientific.org/" target="_blank">Yale Scientific Magazine</a>, but now I mainly work on maintaining and redesigning their website.</p>
 
 I'm also an avid [memer]({% link memes.markdown %}).
 
@@ -32,7 +32,7 @@ My Chinese name is《涂旭辰》which is a combination of my family name《涂�
 
 - Data Structures and Programming Techniques (CPSC 223)
 
-- Intro CS sequence (CS50 and CPSC201)
+- Intro CS (CS50 and CPSC201)
 
 ### Other Coursework
 
