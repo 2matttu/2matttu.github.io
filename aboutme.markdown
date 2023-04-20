@@ -12,7 +12,7 @@ I've been playing piano since elementary school and have recently started guitar
 
 I'm also an avid [memer]({% link memes.markdown %}).
 
-I grew up in Westchester Country, New York, and now live in the Bay Area, California.
+I grew up in Westchester County, New York, and now live in the Bay Area, California.
 
 My Chinese name is《涂旭辰》which is a combination of my family name《涂》and a surname meaning《旭》rising sun +《辰》year of the dragon. I completed the <a href="https://light.yale.edu/" target="_blank">Light Fellowship</a> in Chinese during the Summer of 2020. I'm also learned Korean and hope to one day visit Korea.
 
